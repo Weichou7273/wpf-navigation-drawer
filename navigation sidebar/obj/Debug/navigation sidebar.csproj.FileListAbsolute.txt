@@ -1,0 +1,16 @@
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\bin\Debug\navigation sidebar.exe.config
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\bin\Debug\navigation sidebar.exe
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\bin\Debug\navigation sidebar.pdb
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.csproj.AssemblyReference.cache
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.csproj.SuggestedBindingRedirects.cache
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\MainWindow.g.cs
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\App.g.cs
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar_MarkupCompile.cache
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar_MarkupCompile.lref
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\MainWindow.baml
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.g.resources
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation_sidebar.Properties.Resources.resources
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.csproj.GenerateResource.cache
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.csproj.CoreCompileInputs.cache
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.exe
+C:\Users\weich\source\repos\wpf-navigation-drawer\navigation sidebar\obj\Debug\navigation sidebar.pdb
